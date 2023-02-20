@@ -1,7 +1,23 @@
 body 
 {
   text-align: center;
-  color: pink;
+  color: black;
   font-family: "Arial", Sans-Serif;
   
+}
+.container {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid black;
+  
+}
+.post {
+  padding: 10px;
+  text-align: left;
+  
+}
+
+h1 {
+  font-size: 24px;
 }
