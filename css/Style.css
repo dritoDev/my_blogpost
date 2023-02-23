@@ -40,3 +40,14 @@ h1 {
   font-weight: normal;
   font-size: 0.8em;
 }
+
+.div_button {
+  display: inline;
+  border-bottom: 1px solid black;
+  color: black;
+  background-color: transparent;
+  
+}
+a {
+  text-decoration: none;
+}
